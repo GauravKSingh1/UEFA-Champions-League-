@@ -64,7 +64,7 @@ Once the dashboard is open in Tableau, you can interact with various visualizati
 ## Screenshots
 
 ![Tableau Public - UEFA Champions league 5_18_2024 11_32_05 PM](https://github.com/GauravKSingh1/UEFA-Champions-League-/assets/105987725/42c31dec-930d-431a-a7bb-42296aea57a9)
-Visualization of titles won by different clubs.*
+Visualization of titles won by different nations.*
 
 ![Tableau Public - UEFA Champions league 5_18_2024 11_30_48 PM](https://github.com/GauravKSingh1/UEFA-Champions-League-/assets/105987725/84a1a840-22f9-4b7e-acd8-c7fbfdbd3443)
 List and visualization of the top goal scorers in the UEFA Champions League.*
